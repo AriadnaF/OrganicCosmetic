@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OrganicCosmetic:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OrganicCosmetic.war">
+      <element id="artifact" artifact-name="OrganicCosmetic:war exploded" />
+    </root>
+  </artifact>
+</component>
